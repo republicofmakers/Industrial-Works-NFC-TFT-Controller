@@ -2,7 +2,8 @@
 
 Here is NFC-TFT-Controller
 
-It has 3.5 inch touch screen, nfc card reader, rtc, audio/speaker jack ,epprom ,SD card ,uart to tll progrmmer and multiple type c connector for commumination with other pcbs.
+It has 3.5 inch touch screen, nfc card reader, rtc, audio/speaker jack ,epprom ,SD card ,uart to tll progrmmer 
+and multiple type c connector for commumination with other boards.
 
 Here is PCB Design:
 
